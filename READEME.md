@@ -1,3 +1,5 @@
-#Dba fundamentals
+# DBA fundamentals
 
-Hello from a virtual user group
+Hello from a virtual user group.
+
+We are making conflicts.
